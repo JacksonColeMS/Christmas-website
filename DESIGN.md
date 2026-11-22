@@ -36,6 +36,13 @@ Merry Christmas Title Card
 teleport sprite
 rug sprite
 fire sprite
+pie sprite
+bell sprite 
+counter icon
+Leader board
+coin icon
+count counter
+clothes icon
 
 2. Screens
 Server Selector
@@ -58,4 +65,35 @@ The Lobby
       - There is alot of room in this area
       - The left part of the screen has a teleport pad with the sledding icon over it
       - The Right has a teleport pad with the snow ball fight icon over it
-      
+      - if you interact with teh fire you can open teh gift shop and buy a gift for 100000 gold
+      - There is a small pie near the bottom of the tree and a bell, when you interact with either, they will ask for a password, it is freshmint and which ever one you put the right answer into cahnges the music. wonderful day for pie or jingle bells but also orchestra christmas music is the standard
+Sled Area 
+      - A smaller area which is just a few sleds on teh ground and mounds of snow
+      - there is an interactable sled, when you interact with it, it sends you to a different area 
+      - There is a leaderboard
+Sled Place
+      - A infinite hill that randomly genrates obstacles in the way infront of the player
+      - It slowly gets faster
+      - There is a counter that counts your score
+      - You finish when you hit something
+      - If you beat your past score starting at 0 you get a gift if you dont you get 100 gold
+Snow Ball fight area
+      - When you try to go to the teleport pad to this are you get a prompt saying "would you like to join th war?" with however much time is left in the war"
+      - Every 2 minutes a new war happens.
+      - At the end of every war there is a 10 second intermissiont to pick stay or leave, if you pick nothing you are put back in the lobby
+      - Each snowball deals 1 damage
+      - the are has a ton of mounds on snow you can hide behind and peek from
+      - your character poitns where ever your mouse is
+      - clicking throws a snow ball
+      - the teams are divided in the middle, enemies are tinted red and allies are tented blue to each person, so each see the opossite of waht the otehr sees.
+      - if its an odd number of players, the extra is put in a random team.
+      - the person who deos the most damage and the person who kills the most enemies each gets a gift
+      - The is a dmaage score board on teh side of every person screen while in a war
+      - if anyone ties they both get a gift
+      - if youa rent one of thso epeople you get 100 gold
+
+3. UI
+      - On your screen at all times is a clothes icon in the bottom left corner, if you click on it you see a menu of all the clothes you can put on.
+      - All menus, interactives, leaderboards have the same white backign panel
+
+
