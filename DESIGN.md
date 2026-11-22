@@ -13,7 +13,7 @@ Where or how am I going to host a multiplayer website without having to spend ca
 Now sprites (max 250 people)
 - I'll use lapse to record as I make sprites on git.
 - The sprites will be based off of club penguin sprites
-
+- Everything is deleted after 15 Idle minutes
 (You have no reason to read this, it's just me making a scope)
 1. Assets
 Im going to make 4 sprites for wasd
