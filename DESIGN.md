@@ -33,6 +33,9 @@ snow ball fighting icon
 sledding icon
 many animation cycles
 Merry Christmas Title Card
+teleport sprite
+rug sprite
+fire sprite
 
 2. Screens
 Server Selector
@@ -49,4 +52,10 @@ The Intro
       - This stays up until the next screen is loaded in.
 The Lobby
       - Show a large title card "Merry Christmas" that has animated lights and slides in from the top and stays then slides back up away when the character moves.
-      - to the left 
+      - The lobby has a huge christmas tree is the back center with a single gift under the tree
+      - The center is a rug with a wood fire in teh middle, the rug is a little burnt
+      - That gift is there for everyone and can be opened infinitely when opened it simple gives the message "earn your gifts through minigames, nothing is free"
+      - There is alot of room in this area
+      - The left part of the screen has a teleport pad with the sledding icon over it
+      - The Right has a teleport pad with the snow ball fight icon over it
+      
