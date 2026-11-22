@@ -1,0 +1,8 @@
+- This is going to be a christmas themed website
+- The main goal is to have gift boxes you can get maybe ~20 and each gift box will hold resources on programming/cybersecurity/hardware
+- Additionally there will be minigames like snowball PVP and sledding
+- It will be multiplayer
+- I'm making this for Crin's discord server. (my favorite youtuber)
+- There will be classical music
+- There will be a leader board
+- There will be animations
