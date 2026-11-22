@@ -15,6 +15,7 @@ Now sprites (max 250 people)
 - The sprites will be based off of club penguin sprites
 - Everything is deleted after 15 Idle minutes
 (You have no reason to read this, it's just me making a scope)
+
 1. Assets
 Im going to make 4 sprites for wasd
 3 snow ball making sprites
